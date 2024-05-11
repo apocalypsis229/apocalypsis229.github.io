@@ -26,6 +26,7 @@ alongside with the Haydock Commentary.
 #### Visit [Youtube Channel](https://www.youtube.com/@apocalypsis229) for videos.
 
 <center> 
-##### _Qui habet aurem, áudiat quid Spíritus dicat ecclésiis._
+<h5> <i>Qui habet aurem, áudiat quid Spíritus dicat ecclésiis.</i> </h5>
+<br />
 APOCALYPSIS II:XXIX
 </center>
