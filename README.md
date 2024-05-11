@@ -14,11 +14,12 @@ alongside with the Haydock Commentary.
 
 #### Want to read offline?
 **DOWNLOAD HERE for ANDROID**
-<a href="https://github.com/apocalypsis229/apocalypsis.apk.git" target="_blank">[GitHub]</a>
+
++ <a href="https://github.com/apocalypsis229/apocalypsis.apk.git" target="_blank">[GitHub]</a>
 >Click on the **<>Code** Button, then, "Download ZIP".
 >Extract ZIP and install APK file.
 
-<a href="https://drive.google.com/file/d/1K2Ht_CynGkZ6wq3-T73cYE8E86sp6qg-/view?fbclid=IwAR0c6O1kwboPORf6H0VI2m3b2ORlc49KOulBPf9UCMdMJ_17dwILhBL4cmc" target="_blank">[Google Drive]</a>
++ <a href="https://drive.google.com/file/d/1K2Ht_CynGkZ6wq3-T73cYE8E86sp6qg-/view?fbclid=IwAR0c6O1kwboPORf6H0VI2m3b2ORlc49KOulBPf9UCMdMJ_17dwILhBL4cmc" target="_blank">[Google Drive]</a>
 >Click the "Download" Button", install APK file.
 
 
