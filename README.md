@@ -1,6 +1,6 @@
 # Douay Rheims Bible
 ## with Notes and Annotations
-###published in Douay 1609-1610 OT, Rheims 1582 NT.
+### published in Douay 1609-1610 OT, Rheims 1582 NT.
 
 (**_This is not the Challoner Version_**)
 This version is based mostly from this <a href="https://archive.org/details/1582douayrheimsnt/page/n677/mode/2up?view=theater" target="_blank">resource]</a>.
@@ -24,6 +24,6 @@ alongside with the Haydock Commentary.
 
 #### Visit [Youtube Channel](https://www.youtube.com/@apocalypsis229) for videos.
 
-<center>#####_Qui habet aurem, áudiat quid Spíritus dicat ecclésiis._
+<center>##### _Qui habet aurem, áudiat quid Spíritus dicat ecclésiis._
 APOCALYPSIS II:XXIX
 </center>
